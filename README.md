@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eduardo Rosales
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Javascript && HTML && CSS
-- 💞️ I’m looking to collaborate on Front-End projects or Back-End projects
+- 👀 I’m currently a Software Engineer @ Cisco
+- 🌱 I’m currently learning how to program on the Raspberry pi OS!!
+- 💞️ I enjoy many sports all while staying indoors to work on random projects :D
 - 📫 How to reach me is my email eduardo.rosales@live.com
 
 <!---
