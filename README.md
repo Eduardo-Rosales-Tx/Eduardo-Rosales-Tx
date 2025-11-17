@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eduardo Rosales
-- 👀 I’m currently a Software Engineer @ Cisco
+- 👀 I’m currently a Security Research Engineer @ Cisco
 - 🎓 I'm currently a grad student @ UT Austin studying for my Master's in Software Engineering
 - 🌱 I’m currently learning how to program on the Raspberry pi OS!!
 - 💞️ I enjoy many sports all while staying indoors to work on random projects :D
